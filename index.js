@@ -1,4 +1,5 @@
 // Your code here
+const dodger = document.getElementById("dodger");
 dodger.style.backgroundColor = "#FF69B4";
 //moves the DODGER to the left
 function moveDodgerLeft() {
